@@ -1,4 +1,4 @@
-name: Zaky
+name: amazonRDP
 
 on: workflow_dispatch
 
